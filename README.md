@@ -9,14 +9,11 @@
 <br/>
 
 <p style="font-size: 16px; color: #888888; letter-spacing: 3px; text-transform: uppercase; margin: 0;">
-  Security Researcher &middot; Linux Enthusiast &middot; C Developer
+  Security Researcher &middot; Linux Enthusiast
 </p>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&pause=1200&color=00FF88&center=true&vCenter=true&width=500&lines=Vulnerability+Research;Linux+Security;Reverse+Engineering;Open+Source;Responsible+Disclosure" alt="Typing SVG" />
-</a>
 
 <br/><br/>
 
