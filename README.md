@@ -333,7 +333,7 @@
   <a href="https://github.com/385ahmet">
     <img src="https://img.shields.io/badge/GitHub-385ahmet-0d1117?style=flat&logo=github&logoColor=00ff88&labelColor=0d1117" />
   </a>
-  <a href="mailto:dev@pardus.org.tr">
+  <a href="mailto:ahmetsayici1601@gmail.com">
     <img src="https://img.shields.io/badge/Email-dev@pardus.org.tr-0d1117?style=flat&logo=gmail&logoColor=00d4ff&labelColor=0d1117" />
   </a>
 </p>
