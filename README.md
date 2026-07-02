@@ -206,15 +206,20 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=385ahmet&show_icons=true&count_private=true&title_color=00ff88&icon_color=00d4ff&text_color=cccccc&bg_color=0d1117&hide_border=true" width="100%"/>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=385ahmet&theme=dark&hide_border=true&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&background=0d1117" width="100%"/>
+      </p>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=385ahmet&theme=dark&hide_border=true&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&background=0d1117" width="100%"/>
+    <td width="50%" valign="middle">
+      <p align="center" style="font-size: 14px; color: #555555;">
+        <br/>
+        <img src="https://img.shields.io/badge/dynamic/json?color=00ff88&labelColor=0d1117&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F385ahmet&style=flat&logo=github&logoColor=00ff88"/><br/><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?color=00d4ff&labelColor=0d1117&label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2F385ahmet%2Fpardus-security-vulnerability&style=flat&logo=github&logoColor=00d4ff"/><br/><br/>
+        <img src="https://img.shields.io/github/followers/385ahmet?color=00ff88&labelColor=0d1117&style=flat&logo=github&logoColor=00ff88"/>
+      </p>
     </td>
   </tr>
 </table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=385ahmet&layout=compact&title_color=00ff88&text_color=cccccc&bg_color=0d1117&hide_border=true" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=385ahmet&bg_color=0d1117&color=00ff88&line=00d4ff&point=00ff88&area=true&area_color=00ff88&hide_border=true" width="100%"/>
 
